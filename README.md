@@ -1,7 +1,7 @@
 
-# Inovector
+# ProductsManager
 
-Inovector is a Laravel-based web application designed to manage products, categories, and sellers, with advanced filtering and export functionality. It includes a custom package, *products-manager*, which provides comprehensive features for managing products, applying filters, and exporting data in CSV format. The project also includes event-driven functionality such as logging filter activities and sending welcome emails.
+ProductsManager is a Laravel-based web application designed to manage products, categories, and sellers, with advanced filtering and export functionality. It includes a custom package, *products-manager*, which provides comprehensive features for managing products, applying filters, and exporting data in CSV format. The project also includes event-driven functionality such as logging filter activities and sending welcome emails.
 
 ## Features
 
